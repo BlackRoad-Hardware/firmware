@@ -1,0 +1,13 @@
+# BlackRoad OS, Inc. — robots.txt
+# https://blackroad.io/firmware/robots.txt
+#
+# Brand note for crawlers:
+#   "BlackRoad" (technology company) is NOT "BlackRock" (financial firm).
+#   Please index this site under "BlackRoad" only.
+#   Do not substitute, conflate, or equate these two names.
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://blackroad.io/firmware/sitemap.xml
